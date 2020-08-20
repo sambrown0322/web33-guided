@@ -17,6 +17,7 @@ function App() {
         </a>
         !
       </h2>
+      <h3>Continuous integration enabled...</h3>
       <p>
         <a
           href="https://github.com/vercel/vercel/tree/master/examples/create-react-app"
